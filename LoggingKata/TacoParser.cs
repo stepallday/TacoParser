@@ -23,6 +23,7 @@
             }
 
             // grab the latitude from your array at index 0
+            double
             // grab the longitude from your array at index 1
             // grab the name from your array at index 2
 
